@@ -70,7 +70,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 Feel free to connect with me on:
 
-GitHub: [monikeo28100](https://github.com/monikeo28100)
+GitHub: [Scarlet Hare](https://github.com/monikeo281000)
 LinkedIn: [Moni Keo](https://www.linkedin.com/in/monikeo281000)
 Instagram: [Moni Keo](https://www.instagram.com/moni_keo281000)
 
